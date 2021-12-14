@@ -6,7 +6,7 @@ public class Main {
         Person p = new Person();
         p.name = "Khayal";
         p.surname = "Farziyev";
-        p.age = 123;
+        p.age = 125;
 
         System.out.println(p);
 
